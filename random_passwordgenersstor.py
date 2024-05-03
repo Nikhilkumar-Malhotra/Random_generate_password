@@ -2,8 +2,8 @@ import random
 import string
 length=int(input("enter the length of password:"))
 print("""set the all types of password like-
-      1.Digits 
-      2.Letters
+      1.Letters
+      2.Digits
       3.Special characters
       4.Exit""")
 characterList=""
